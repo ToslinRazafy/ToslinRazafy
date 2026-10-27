@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Full-Stack+%26+Mobile+Developer;Building+modern+digital+experiences;Clean+product+design+%26+solid+code" alt="Toslin Razafy banner" />
+</div>
+
 # Toslin Razafy
 
 Full-Stack & Mobile Developer
@@ -7,17 +11,17 @@ Full-Stack & Mobile Developer
 [![GitHub](https://img.shields.io/badge/GitHub-ToslinRazafy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ToslinRazafy)
 [![Email](https://img.shields.io/badge/Email-toslinrazafy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toslinrazafy@gmail.com)
 
-Je suis un développeur Full-Stack et Mobile passionné par la création d’applications modernes, utiles et performantes. J’aime transformer des idées en produits concrets en combinant design, architecture logicielle et expérience utilisateur.
+Je développe des solutions web et mobiles modernes, fonctionnelles et orientées utilisateur. J’aime créer des produits concrets en combinant design, architecture logicielle et expérience digitale.
 
-## À propos
+## About
 
 - Développement d’applications web et mobile
-- Conception d’interfaces élégantes et fonctionnelles
-- Développement backend robuste et évolutif
-- Gestion de bases de données et intégration de services
-- Expériences utilisateur claires et orientées produit
+- Conception d’interfaces modernes et ergonomiques
+- Architecture backend robuste et évolutive
+- Intégration de services et gestion de données
+- Création de produits utiles, performants et lisibles
 
-## Stack technique
+## Stack
 
 ### Frontend
 
@@ -42,7 +46,7 @@ Je suis un développeur Full-Stack et Mobile passionné par la création d’app
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Bases de données & outils
+### Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,20 +54,20 @@ Je suis un développeur Full-Stack et Mobile passionné par la création d’app
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Focus actuel
+## Focus
 
-- Applications web modernes et orientées utilisateur
-- Solutions mobiles performantes avec Flutter
-- API backend et intégrations de services
-- Systèmes de gestion et outils métier
-- Apprentissage continu sur les bonnes pratiques et les architectures évolutives
+- Applications web modernes
+- Solutions mobiles performantes
+- APIs et systèmes backend fiables
+- Produits centrés sur l’expérience utilisateur
+- Mélange de code propre, design élégant et bonne architecture
 
 ## Contact
 
-- Email : toslinrazafy@gmail.com
-- LinkedIn : https://linkedin.com/in/toslinrazafy
-- Portfolio : https://portfolio2-0-omega-woad.vercel.app
-- GitHub : https://github.com/ToslinRazafy
+- Email: toslinrazafy@gmail.com
+- LinkedIn: https://linkedin.com/in/toslinrazafy
+- Portfolio: https://portfolio2-0-omega-woad.vercel.app
+- GitHub: https://github.com/ToslinRazafy
 
 ---
 
